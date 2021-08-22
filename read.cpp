@@ -1,5 +1,5 @@
 /*
- * read from the shm every 1 second
+ * read from the shm every 2 second
 */
 #include <iostream>
 #include <stdio.h>

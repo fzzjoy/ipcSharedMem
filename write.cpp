@@ -1,5 +1,5 @@
 /*
- * write a random number between 0 and 999 to the shm every 1 second
+ * write a random number between 0 and 999 to the shm
 */
 #include <iostream>
 #include <stdio.h>
